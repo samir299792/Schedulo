@@ -4,16 +4,10 @@ Schedulo is a full-stack meeting scheduler built with **Next.js**, **Tailwind CS
 It lets users create customizable booking links, manage calendar events, and schedule meetings with timezone and availability syncing.
 
 ---
+<p align="center">
 
-<p align="center">
-<p align="center">
-  <img src="./public/preview.png" alt="Schedulo Preview" width="700" />
-</p>
+<img width="2940" height="1626" alt="image" src="https://github.com/user-attachments/assets/10ea79b6-f488-4737-bf49-eb414c82ce0e" />
 
-<h1 align="center">Schedulo</h1>
-<p align="center">
-  Smarter Scheduling Ahead <br/>
-  A full-stack meeting scheduler built with <b>Next.js</b>, <b>Tailwind CSS</b>, and <b>Prisma ORM</b>.
 </p>
 
 ## 🚀 Features
