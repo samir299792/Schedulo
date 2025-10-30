@@ -6,7 +6,7 @@ It lets users create customizable booking links, manage calendar events, and sch
 ---
 
 <p align="center">
-  <img src="public/schedulo-preview.png" alt="Schedulo Preview" width="700" />
+  <img src="public/preview.png" alt="Schedulo Preview" width="700" />
 </p>
 
 <h1 align="center">Schedulo</h1>
