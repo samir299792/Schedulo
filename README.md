@@ -5,6 +5,16 @@ It lets users create customizable booking links, manage calendar events, and sch
 
 ---
 
+<p align="center">
+  <img src="public/schedulo-preview.png" alt="Schedulo Preview" width="700" />
+</p>
+
+<h1 align="center">Schedulo</h1>
+<p align="center">
+  Smarter Scheduling Ahead ✨ <br/>
+  A full-stack meeting scheduler built with <b>Next.js</b>, <b>Tailwind CSS</b>, and <b>Prisma ORM</b>.
+</p>
+
 ## 🚀 Features
 
 - User authentication with Google and Facebook OAuth  
